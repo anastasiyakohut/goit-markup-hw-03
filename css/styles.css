@@ -84,8 +84,8 @@ img {
   gap: 40px;
 }
 
-.header-menu-item {
-}
+/*.header-menu-item {
+}*/
 
 .header-menu-link {
   color: #2e2f42;
@@ -94,6 +94,7 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   padding: 24px 0;
+  display: block;
 }
 
 .header-menu-link:hover,
@@ -149,6 +150,8 @@ img {
   line-height: 1.07;
   letter-spacing: 0.02em;
   margin-bottom: 48px;
+  margin-left: auto;
+  margin-right: auto;
   max-width: 496px;
 }
 
@@ -167,6 +170,8 @@ img {
   cursor: pointer;
   display: block;
   min-width: 169px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .hero-button:hover,
