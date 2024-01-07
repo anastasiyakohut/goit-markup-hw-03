@@ -82,12 +82,11 @@ img {
 .header-menu-list {
   display: flex;
   gap: 40px;
-  padding: 24px 0;
 }
 
-/*
 .header-menu-item {
-}*/
+  padding: 24px 0;
+}
 
 .header-menu-link {
   color: #2e2f42;
@@ -138,7 +137,7 @@ img {
   background: #2e2f42;
 }
 
-.hero-container {
+.hero {
   padding: 188px 0;
 }
 
